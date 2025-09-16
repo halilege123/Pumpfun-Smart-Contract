@@ -42,11 +42,15 @@ Raydium Launchlab enhances the standard launchpad experience with additional, ad
 In summary, while both platforms serve as essential tools for launching memecoins, the Raydium Launchlab provides robust features like token vesting and migration options, making it more suitable for developers who seek greater control over their token distributions and exit strategies. In contrast, Pumpfun emphasizes simplicity in launching new tokens, appealing to developers who prioritize a straightforward, user-friendly approach.
 
 ## Related repository
-  You can check frontend and backend repo in my github as well.
+  - Frontend & Backend
   
   [Pumpfun Backend repo](https://github.com/0xTan1319/Pump-Fun-Backend)
   
   [Pumpfun Frontend repo](https://github.com/0xTan1319/Pump-Fun-FE)
+
+  - Evm pumpfun smart contract
+
+  [evm-pumpfun-smart-contract](https://github.com/L9T-Lab/evm-pumpfun-smart-contract-xlayer-ethereum-monad)
 
 ## Contribution
 
